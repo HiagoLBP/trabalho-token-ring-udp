@@ -5,6 +5,7 @@
 
 ## Integrantes
 - **Hiago Souza** ([@HiagoLBP](https://github.com/HiagoLBP))
+- **José Carvalho Nogueira Neto** ([@josecarvalhonogueiraneto](https://github.com/josecarvalhonogueiraneto))
 - **Murilo Alves Botelho** ([@MuriloAlvesBotelho](https://github.com/MuriloAlvesBotelho))
 - **Vinicius Benevides Reis** ([@Vini-Be](https://github.com/Vini-Be))
 
