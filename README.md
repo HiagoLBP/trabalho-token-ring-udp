@@ -1,4 +1,4 @@
-# Trabalho Prático — Topologia Token Ring em Java (UDP)
+# Trabalho Topologia Token Ring em Java (UDP)
 
 **Disciplina:** Sistemas Distribuídos  
 **Professor:** George Gabriel Mendes Dourado  
