@@ -4,6 +4,7 @@
 **Professor:** George Gabriel Mendes Dourado  
 
 ## Integrantes
+- **Gustavo Nogueira** ([@gusta-101](https://github.com/gusta-101))
 - **Hiago Souza** ([@HiagoLBP](https://github.com/HiagoLBP))
 - **José Carvalho Nogueira Neto** ([@josecarvalhonogueiraneto](https://github.com/josecarvalhonogueiraneto))
 - **Murilo Alves Botelho** ([@MuriloAlvesBotelho](https://github.com/MuriloAlvesBotelho))
