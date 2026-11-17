@@ -8,6 +8,7 @@
 - **José Carvalho Nogueira Neto** ([@josecarvalhonogueiraneto](https://github.com/josecarvalhonogueiraneto))
 - **Murilo Alves Botelho** ([@MuriloAlvesBotelho](https://github.com/MuriloAlvesBotelho))
 - **Vinicius Benevides Reis** ([@Vini-Be](https://github.com/Vini-Be))
+- **Gustavo Nogueira Lima**  (.[@gusta-101](https://github.com/gusta-101))
 
 ---
 
