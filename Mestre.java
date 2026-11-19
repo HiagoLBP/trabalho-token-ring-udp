@@ -4,7 +4,7 @@ import java.io.*;
 public class Mestre {
     public static void main(String[] args) {
         if (args.length < 3) {
-            System.out.println("Uso: java Mestre <id> <operacao> <voltas>");
+            System.out.println("Uso: java Mestre <id> <operacao> <voltas> [ip_proximo_no]");
             return;
         }
 
@@ -17,15 +17,11 @@ public class Mestre {
         int proximoId = 1;
         int proximaPorta = portaBase + proximoId;
 
-        // Configuracao para execucao LOCAL (localhost)
+        // Configuracao para execucao LOCAL (localhost) ou via rede (4o argumento)
         String proximoHost = "localhost";
-
-        // Trecho para conexao entre computadores diferentes na rede (descomente quando for usar 4 PCs):
-        /*
         if (args.length >= 4) {
             proximoHost = args[3];
         }
-        */
 
         int token = 2;
 

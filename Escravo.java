@@ -4,7 +4,7 @@ import java.io.*;
 public class Escravo {
     public static void main(String[] args) {
         if (args.length < 3) {
-            System.out.println("Uso: java Escravo <id> <operacao> <voltas>");
+            System.out.println("Uso: java Escravo <id> <operacao> <voltas> [ip_proximo_no]");
             return;
         }
 
@@ -17,15 +17,11 @@ public class Escravo {
         int proximoId = (id + 1) % 4;
         int proximaPorta = portaBase + proximoId;
 
-        // Configuracao para execucao LOCAL (localhost)
+        // Configuracao para execucao LOCAL (localhost) ou via rede (4o argumento)
         String proximoHost = "localhost";
-
-        // Trecho para conexao entre computadores diferentes na rede (descomente quando for usar 4 PCs):
-        /*
         if (args.length >= 4) {
             proximoHost = args[3];
         }
-        */
 
         DatagramSocket aSocket = null;
         try {
